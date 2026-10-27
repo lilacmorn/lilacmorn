@@ -8,7 +8,7 @@
 
 `def state(): return "designing & coding ☕"`
 
-✨ [portfolio](https://your-portfolio.dev) · 💬 [discord](https://discord.com/users/your_userid) · 🌌 [bluesky](https://bsky.app)
+✨  💬 [discord](https://discord.com/users/your_userid) · 🌌 
 
 ---
 <br>
