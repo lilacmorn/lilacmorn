@@ -34,20 +34,6 @@ Hi, I'm a developer who loves breaking things in Python and making them look pre
 
 <br>
 
-### 👾 bot creations & styles
-
-* 🤖 **[my-aesthetic-bot](https://github.com/yourusername/repo)** - A fully customized Discord bot with rich embeds, automated moderation, and custom canvas-generated welcome images.
-* 🌸 **[pastel-discord-theme](https://github.com/yourusername/repo)** - A custom CSS stylesheet for client modifications, featuring a soft, minimalist color palette.
-
-<br>
-
-### 📈 stats & vibes
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=rose&hide_border=true" alt="github stats" width="400"/>
-</div>
-
----
 
 <div align="center">
 
